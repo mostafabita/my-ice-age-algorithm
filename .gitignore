@@ -1,0 +1,31 @@
+# Build
+bin/
+obj/
+
+# VS
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Output
+*.exe
+*.dll
+*.pdb
+
+# Logs & cache
+*.log
+*.cache
+
+# Debug/Release
+Debug/
+Release/
+
+# Upgrade
+UpgradeLog*
+_UpgradeReport_Files/
+
+# Backup
+Backup/
+Backup1/
